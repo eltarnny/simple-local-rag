@@ -15,6 +15,8 @@ Runs in 12GB VRAM.
 Example used:  
 Ask clarification of board game rules based on the official rulebook PDF.  
 
+Full explanation in this [Medium article](https://medium.com/@eltarny/full-local-open-source-lightweight-simple-rag-a0a1de586209).
+
 ## Future development:  
 
 - Streamlit UI
